@@ -1,0 +1,21 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Desenvolvimento de aplicativo",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-12-14T22:44:20.505Z"
+    },
+    {
+      "id": "2",
+      "description": "Celular",
+      "type": "outcome",
+      "category": "Eletronico",
+      "price": 2500,
+      "createdAt": "2022-12-12T09:44:20.505Z"
+    }
+
+  ]
+}
